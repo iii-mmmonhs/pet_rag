@@ -12,7 +12,7 @@
 
 *   HF Transformers, PyTorch, LangChain, FAISS, Gradio
 
-## 📂 Структура проекта
+## Структура проекта
 
 ```text
 ├── app.py                  # Точка входа приложения; интерфейс Gradio
